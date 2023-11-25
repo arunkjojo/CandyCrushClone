@@ -11,7 +11,7 @@ function candyCrushGame() {
   var scoreDisplay = document.getElementById("score");
   // console.log("score", score);
   const candyColors = [
-    "url(/images/red-candy.png?raw=true)",
+    "url(/images/red-candy.png)",
     "url(/images/blue-candy.png)",
     "url(/images/green-candy.png)",
     "url(/images/yellow-candy.png)",
