@@ -11,12 +11,12 @@ function candyCrushGame() {
   var scoreDisplay = document.getElementById("score");
   // console.log("score", score);
   const candyColors = [
-    "url(https://arunkjojo.github.io/CandyCrushClone/images/red-candy.png)",
-    "url(https://arunkjojo.github.io/images/blue-candy.png)",
-    "url(https://arunkjojo.github.io/images/green-candy.png)",
-    "url(https://arunkjojo.github.io/images/yellow-candy.png)",
-    "url(https://arunkjojo.github.io/images/orange-candy.png)",
-    "url(https://arunkjojo.github.io/images/purple-candy.png)",
+    "url(./images/red-candy.png)",
+    "url(./images/blue-candy.png)",
+    "url(./images/green-candy.png)",
+    "url(./images/yellow-candy.png)",
+    "url(./images/orange-candy.png)",
+    "url(./images/purple-candy.png)",
   ];
 
   // Creating Game Board
